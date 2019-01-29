@@ -6,9 +6,9 @@
 				<!--{{collapsed?'':sysName}}-->
 			</el-col>
 			<el-col :span="10">
-				<div class="tools" @click.prevent="collapse">
-					<i class="fa fa-align-justify"></i>
-				</div>
+				<!--<div class="tools" @click.prevent="collapse">-->
+					<!--<i class="fa fa-align-justify"></i>-->
+				<!--</div>-->
 			</el-col>
 			<el-col :span="4" class="userinfo">
 				<el-dropdown trigger="hover">
